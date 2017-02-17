@@ -16,11 +16,11 @@
 title: Nukes Crew Predictive
 email: nukescrew@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blah blah blah CS:GO Blah Blah Blah.
+  Just a guy making videos for fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nukes_crew
-github_username:  jekyll
+github_username:  NKSCPredictive
 
 # Build settings
 markdown: kramdown
