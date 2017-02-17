@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latest Video
+title: Latest
 permalink: /latest/
 ---
 
