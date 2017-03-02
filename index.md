@@ -4,9 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-<html>
-  <head>
-    <link rel="icon" href="https://yt3.ggpht.com/-K7rOX3YfVuc/AAAAAAAAAAI/AAAAAAAAAAA/uJadJvVuRzE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg">
-  </head>
-</html>
